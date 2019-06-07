@@ -1,0 +1,64 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+.mountain {
+    margin: 0;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+}
+.helicopter{
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    width: 20vh; 
+}
+.tree{
+    position: absolute;
+    top: 700px;
+    left: 70px;
+}
+.sun{
+    position: absolute;
+    top: 40px;
+    left: 55vh;
+    width: 70px;
+}
+.ballon{
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    width: 150px;
+}
+.eagle{
+    position: absolute;
+    top: 170px;
+    left: 105vh;
+    width: 200px;
+}
+.fire{
+    position: absolute;
+    top: 810px;
+    left: 620px;
+    width: 10vh;
+    z-index: 2;
+}
+.tent{
+    position: absolute;
+    top: 740px;
+    left: 400px;
+    width: 30vh;
+}
+.viking{
+    position: absolute;
+    top: 680px;
+    left: 1030px;
+    width: 25vh;
+}
+.box {
+    position: absolute;
+    top: 440px;
+    left: 750px;
+    width: 15vh;
+}
